@@ -25,11 +25,15 @@ The management of universities requires data on teaching and research performanc
 
 Due to the data privacy reasons we are unfortunately not allowed to publish the data used in this paper. However, we do provide the aggregated numbers to reproduce each of the visualizations. Each folder in this repo contains all the data that is needed to run the codes.
 
+## Reproducing results
+
+The repository contains four visualizations in the corresponding folders. Each folder has an R code that produces a visualization, a csv file with data and a resulting plot.
+
 ## Project structure
 ````
 ├── README.txt                                                  # this readme file
 |
-├── DMFchord                                                    # Plots a chord diagram 
+├── DMFchord                                                    # plots a chord diagram 
 │   ├──  DMFchord.R
 │   ├──  DMFchord.csv
 │   ├──  DMFchordCol.csv
@@ -38,7 +42,7 @@ Due to the data privacy reasons we are unfortunately not allowed to publish the 
 │   ├──  Metainfo.txt
 │   ├──  README.md 
 |
-├── DMFpubProVol                                                # Plots a time series plot
+├── DMFpubProVol                                                # plots a time series plot
 │   ├──  DMFpubProPubVol.R
 │   ├──  DMFpubProPubVol_cit.Rdata
 │   ├──  DMFpubProPubVol_pub.Rdata
@@ -48,14 +52,14 @@ Due to the data privacy reasons we are unfortunately not allowed to publish the 
 │   ├──  README.md
 │   ├──  huLeg.Rdata 
 |
-├── DMFsankey                                                   # Plots a sankey-plot
+├── DMFsankey                                                   # plots a sankey-plot
 │   ├──  DMFsankey.R
 │   ├──  DMFsankey.csv
 │   ├──  DMFsankeycoop_HUunits_full_en.png
 │   ├──  Metainfo.txt
 │   ├──  README.md 
 |
-├── DMFtsmtpe                                                   # Plots the TPE per researcher 
+├── DMFtsmtpe                                                   # plots the TPE per researcher 
 │   ├──  DMFtsmtpe.R
 │   ├──  DMFtsmtpe.csv
 │   ├──  DMFtsmtpe_adj.csv
