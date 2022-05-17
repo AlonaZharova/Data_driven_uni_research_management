@@ -23,14 +23,13 @@ The management of universities requires data on teaching and research performanc
 
 ## Data
 
-
-
+Due to the data privacy reasons we are unfortunately not allowed to publish the data used in this paper. However, we do provide the aggregated numbers to reproduce each of the visualizations. Each folder in this repo contains all the data that is needed to run the codes.
 
 ## Project structure
 ````
 ├── README.txt                                                  # this readme file
 |
-├── DMFchord                                                    # agent notebooks + .py scripts
+├── DMFchord                                                    # Plots a chord diagram 
 │   ├──  DMFchord.R
 │   ├──  DMFchord.csv
 │   ├──  DMFchordCol.csv
@@ -39,7 +38,7 @@ The management of universities requires data on teaching and research performanc
 │   ├──  Metainfo.txt
 │   ├──  README.md 
 |
-├── DMFpubProVol                                                    # agent notebooks + .py scripts
+├── DMFpubProVol                                                # Plots a time series plot
 │   ├──  DMFpubProPubVol.R
 │   ├──  DMFpubProPubVol_cit.Rdata
 │   ├──  DMFpubProPubVol_pub.Rdata
@@ -49,14 +48,14 @@ The management of universities requires data on teaching and research performanc
 │   ├──  README.md
 │   ├──  huLeg.Rdata 
 |
-├── DMFsankey                                                    # agent notebooks + .py scripts
+├── DMFsankey                                                   # Plots a sankey-plot
 │   ├──  DMFsankey.R
 │   ├──  DMFsankey.csv
 │   ├──  DMFsankeycoop_HUunits_full_en.png
 │   ├──  Metainfo.txt
 │   ├──  README.md 
 |
-├── DMFtsmtpe                                                   # agent notebooks + .py scripts
+├── DMFtsmtpe                                                   # Plots the TPE per researcher 
 │   ├──  DMFtsmtpe.R
 │   ├──  DMFtsmtpe.csv
 │   ├──  DMFtsmtpe_adj.csv
