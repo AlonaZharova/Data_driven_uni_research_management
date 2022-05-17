@@ -31,17 +31,38 @@ The management of universities requires data on teaching and research performanc
 ├── README.txt                                                  # this readme file
 |
 ├── DMFchord                                                    # agent notebooks + .py scripts
-│   ├── xxx
+│   ├──  DMFchord.R
+│   ├──  DMFchord.csv
+│   ├──  DMFchordCol.csv
+│   ├──  DMFchordPubRF_HUunits_wTMCA_en.png
+│   ├──  DMFchordPubRF_fakcoop_HUunits_wTMCA_en.png
+│   ├──  Metainfo.txt
+│   ├──  README.md 
 |
 ├── DMFpubProVol                                                    # agent notebooks + .py scripts
-│   ├── xxx
+│   ├──  DMFpubProPubVol.R
+│   ├──  DMFpubProPubVol_cit.Rdata
+│   ├──  DMFpubProPubVol_pub.Rdata
+│   ├──  DMFpubPropubVol_cit_relToResearch.png
+│   ├──  DMFpubPropubVol_pub_relToResearch.png
+│   ├──  Metainfo.txt
+│   ├──  README.md
+│   ├──  huLeg.Rdata 
 |
 ├── DMFsankey                                                    # agent notebooks + .py scripts
-│   ├── xxx
+│   ├──  DMFsankey.R
+│   ├──  DMFsankey.csv
+│   ├──  DMFsankeycoop_HUunits_full_en.png
+│   ├──  Metainfo.txt
+│   ├──  README.md 
 |
 ├── DMFtsmtpe                                                   # agent notebooks + .py scripts
-│   ├── xxx
-
+│   ├──  DMFtsmtpe.R
+│   ├──  DMFtsmtpe.csv
+│   ├──  DMFtsmtpe_adj.csv
+│   ├──  DMFtsmtpe_relRes_with_adj.png
+│   ├──  Metainfo.txt
+│   ├──  README.md 
 
 ````
 
