@@ -11,7 +11,7 @@ SFB 649 Discussion Paper 2017-028
 ```
 A previous version of the paper is available at: [SFB 649 Discussion Papers](http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf)
 
-![research_model](/research_model.jpg)
+![research_model](/research_model.png)
 
 ## Summary
 
