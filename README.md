@@ -6,7 +6,7 @@ A digital companion to the research paper
 Alona Zharova, Wolfgang Karl Härdle and Stefan Lessmann
 Data-driven support for policy and decision-making in university research management: 
 A case study from Germany.
-SFB 649 Discussion Paper 2017-028
+SFB 649 Discussion Paper 2017-028.
 
 ```
 A previous version of the paper is available at: [SFB 649 Discussion Papers](http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf)
@@ -27,7 +27,7 @@ Due to the data privacy reasons we are unfortunately not allowed to publish the 
 
 ## Reproducing results
 
-The repository contains four visualizations in the corresponding folders. Each folder has an R code that produces a visualization, a csv file with data and a resulting plot.
+The repository contains four visualizations in the corresponding folders. Each folder has an R script that produces a visualization, a csv file with data and a resulting plot. To reproduce a visualization, download the corresponding csv file and run the R script.
 
 ## Project structure
 ````
