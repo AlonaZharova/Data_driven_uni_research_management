@@ -23,7 +23,7 @@ The management of universities requires data on teaching and research performanc
 
 ## Data
 
-Due to the data privacy reasons we are unfortunately not allowed to publish the data used in this paper. However, we do provide the aggregated numbers to reproduce each of the visualizations. Each folder in this repo contains all the data that is needed to run the codes.
+Due to the data privacy reasons we are unfortunately not allowed to publish the data used in this paper. However, we do provide the aggregated values to reproduce each of the visualizations. Each folder in this repo contains all the data that is needed to run the codes.
 
 ## Reproducing results
 
