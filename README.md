@@ -6,10 +6,12 @@ A digital companion to the research paper
 Alona Zharova, Wolfgang Karl Härdle and Stefan Lessmann
 Data-driven support for policy and decision-making in university research management: 
 A case study from Germany.
-SFB 649 Discussion Paper 2017-028.
-
+European Journal of Operational Research, In Press, (2022).
+https://doi.org/10.1016/j.ejor.2022.10.016
 ```
-A previous version of the paper is available at: [SFB 649 Discussion Papers](http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf)
+
+The paper is available at: [Publisher's website](https://doi.org/10.1016/j.ejor.2022.10.016).
+A previous version of the preprint is available at: [SFB 649 Discussion Papers](http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf)
 
 ![research_model](/research_model.png)
 
